@@ -4,7 +4,8 @@ import time
 import keyboard
 import os
 
-
+# Use keyboard to access lamps piano-style
+# Delay required for standard lamps, no delay for entertainment lamps
 
 class Huecontrol:
     
