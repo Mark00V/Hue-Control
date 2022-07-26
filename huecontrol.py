@@ -127,8 +127,8 @@ class Huecontrol:
 
 # ------------------------------------------------------------------
 # Setup User and IP of HUE Bridge
-user = 'slYkJoYTRY5pOW2SVKqBniulwWGHJIQH9pgTI87L' # User Bridge
-ip = '192.168.0.213'                              # IP der Bridge
+user = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' # User Bridge
+ip = 'XXX.XXX.XXX.X'                              # IP der Bridge
 all_lights = [3,8,9]                              # lights to control
 # ------------------------------------------------------------------
 
